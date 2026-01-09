@@ -1,0 +1,116 @@
+// {
+//   "expo": {
+//     "name": "Mind Rrefreshment",
+//     "slug": "mindful_today_5th_app",
+//     "version": "1.0.0",
+//     "orientation": "portrait",
+//     "icon": "./assets/images/round.png",
+//     "scheme": "mindfultoday5thapp",
+//     "userInterfaceStyle": "automatic",
+//     "newArchEnabled": true,
+//     "ios": {
+//       "supportsTablet": true
+//     },
+//     "android": {
+//       "adaptiveIcon": {
+//         "backgroundColor": "#E6F4FE",
+//         "foregroundImage": "./assets/images/round.png",
+//         "backgroundImage": "./assets/images/round.png",
+//         "monochromeImage": "./assets/images/round.png"
+//       },
+//       "edgeToEdgeEnabled": true,
+//       "predictiveBackGestureEnabled": false,
+//       "package": "com.moajjem.mindful_today_5th_app"
+//     },
+//     "web": {
+//       "output": "static",
+//       "favicon": "./assets/images/round.png"
+//     },
+//     "plugins": [
+//       "expo-router",
+//       [
+//         "expo-splash-screen",
+//         {
+//           "image": "./assets/images/tree.png",
+//           "imageWidth": 200,
+//           "resizeMode": "contain",
+//           "backgroundColor": "#ffffff",
+//           "dark": {
+//             "backgroundColor": "#000000"
+//           }
+//         }
+//       ]
+//     ],
+//     "experiments": {
+//       "typedRoutes": true,
+//       "reactCompiler": true
+//     },
+//     "extra": {
+//       "router": {},
+//       "eas": {
+//         "projectId": "514f1679-c8c6-4c61-bb4c-dfa274a34772"
+//       }
+//     }
+//   }
+// }
+
+
+
+
+
+{
+  "expo": {
+    "name": "Mind Rrefreshment",
+    "slug": "mindful_today_5th_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/round.png",
+    "scheme": "mindfultoday5thapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/round.png",
+        "backgroundImage": "./assets/images/round.png",
+        "monochromeImage": "./assets/images/round.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.moajjem.mindful_today_5th_app"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/round.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/tree.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "514f1679-c8c6-4c61-bb4c-dfa274a34772"
+      }
+    }
+  }
+}
