@@ -15,7 +15,7 @@ export default function AIMoodGeminiScreen() {
   const [suggestion, setSuggestion] = useState<string>("");
 
   const getGeminiReply = async (message: string) => {
-    const API_KEY = 'AIzaSyAaw8MnAK0tX74zlhHeOhoELAl56nVkXdQ';
+    const API_KEY = 'AIzaSyAaw8MoELAl56nVkXdQ';
     const MODEL_NAME = 'gemini-2.5-flash';
     const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL_NAME}:generateContent?key=${API_KEY}`;
     const requestBody = { contents: [{ role: 'user', parts: [{ text: message }] }] };
