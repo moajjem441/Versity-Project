@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# Mindful Today – Mental Wellness Mobile App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Mindful Today is a mental wellness mobile application developed as part of my university Software Development Project (SDP).
 
-## Get started
+The app helps users track their mood, relax their mind, and improve mental well-being through different features like journaling, AI mood prediction, relaxation activities, and spiritual support.
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## Features
 
-   ```bash
-   npx expo start
-   ```
+- User Authentication (Login System)
+- Mood Tracking
+- AI Mood Prediction
+- Journaling
+- Relaxation Activities
+- Mental Health Stories
+- AI Chat Assistant
+- Doctor Appointment System
+- Quran Recitation for spiritual calmness
+- Quranic Quote
+- Games
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Technologies Used
 
-## Get a fresh project
+- React Native
+- TypeScript
+- Mobile UI Design
+- Git & GitHub
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## App Screenshots
 
-## Learn more
+- App screenshots have in the App SS folder
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## Purpose of This Project
 
-Join our community of developers creating universal apps.
+This project was developed to help people manage stress and improve their mental health using simple digital tools.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## Author
+Moajjem Hossain  
+BSc in Computer Science & Engineering  
+BUBT
